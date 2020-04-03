@@ -6,3 +6,5 @@ master branch operator.
 =======
 featuer1 change text.
 >>>>>>> feature1
+---------------------------------------
+dev ok
